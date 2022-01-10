@@ -1,5 +1,5 @@
 # Crypto
-Cryptocurrency app that have been built upon a Clean-Architecture and MVVM with Use-Cases.
+A Cryptocurrency app built on Clean-Architecture, MVVM and Use-Cases.
 
 
 
